@@ -1,0 +1,20 @@
+{
+  "$schema": "http://columnformatting.sharepointpnp.com/columnFormattingSchema.json",
+  "elmType": "a",
+  "attributes": {
+    "href": "@currentField",
+    "target": "_blank"
+  },
+  "children": [
+    {
+      "elmType": "img",
+      "style": {
+        "width": "20px",
+        "box-shadow": "0 0 5px  rgba(0,0,0,0.6)"
+      },
+      "attributes": {
+        "src": "https://spoprod-a.akamaihd.net/files/fabric-cdn-prod_20201207.001//assets/item-types/20/pdf.svg"
+      }
+    }
+  ]
+}
