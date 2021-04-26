@@ -12,8 +12,9 @@
    # ⚡NOTA IMPORTANTE 
    Este repositorio es una copia (Fork) actualizada periodicamente a partir del [original](https://github.com/pnp/List-Formatting) en su rama master. 
    La rama por defecto de este repositorio master-es, que se irá ampliando y actualizando con la traducción de archivos readme.md y .json para facilitar su adaptación y uso en listas de Sharepoint en español. 
+   
    En algunos casos, el código fuente puede tener modificaciones de diseño. Todas las solicitudes de modificación o cambio (Pull Request) se harán sobre la rama master-es.
-   También se pueden añadir nuevos archivos .json mencionando la fuente, si es distinta al respositorio original.
+   También se pueden añadir nuevos archivos .json mencionando la fuente, si es distinta al repositorio original.
    
    Autor/es: 
    [Ernesto Barrera](https://github.com/ernestobarrera)
