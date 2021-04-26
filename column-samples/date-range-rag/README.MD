@@ -59,7 +59,7 @@ Versión|Fecha|Comentarios
 Versión|Fecha|Comentarios
 -------|----|--------
 2.0|24 de abril|Fork [repositorio original](https://github.com/pnp/List-Formatting)
-2.1|25 de abril|Traducción Readme.md y archivo ejemplo formato de fecha [date-range-rag-days-left.json](https://github.com/CollaborativeWork/List-Formatting/blob/master/column-samples/date-range-rag/date-range-rag-days-left.json) a [días restantes](https://github.com/CollaborativeWork/List-Formatting/blob/master/column-samples/date-range-rag/fecha-dias-restantes.json) por [Ernesto Barrera](https://github.com/ErnestoBarrera)
+2.1|25 de abril|Traducción Readme.md y archivo ejemplo formato de fecha [date-range-rag-days-left.json](https://github.com/CollaborativeWork/List-Formatting/blob/master/column-samples/date-range-rag/date-range-rag-days-left.json) a [días restantes](https://github.com/CollaborativeWork/List-Formatting/blob/master-es/column-samples/date-range-rag/fecha-dias-restantes.json) por [Ernesto Barrera](https://github.com/ErnestoBarrera)
 
 
 
