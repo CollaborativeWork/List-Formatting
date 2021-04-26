@@ -16,7 +16,7 @@
    En algunos casos, el código fuente puede tener modificaciones de diseño. Todas las solicitudes de modificación o cambio (Pull Request) se harán sobre la rama master-es.
    También se pueden añadir nuevos archivos .json mencionando la fuente, si es distinta al repositorio original.
    
-   Autor/es: 
+   Autor/es de la adaptación: 
    [Ernesto Barrera](https://github.com/ernestobarrera)
 
   
