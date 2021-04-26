@@ -1,27 +1,28 @@
-# Page-a-day Calendar
+# Calendario de páginas al día
 
-## Summary
-This sample customizes a date column to look like a page-a-day calendar. It does this by using the date part functions (`getDate`, `getMonth`, and `getYear`).
+## Resumen
+Este ejemplo personaliza una columna de fecha para que parezca un calendario de página al día. Lo hace utilizando las funciones de la parte de fecha (`getDate`, `getMonth`, y `getYear`).
 
-![screenshot of the sample](./screenshot.png)
+##[captura de pantalla del ejemplo](./screenshot.png)
 
-## View requirements
-This format can be applied to a Date column
+## Requisitos de la vista
+Este formato se puede aplicar a una columna de Fecha
 
-## Sample
+## Muestra
 
-Solution                      |Author(s)
+Solución |Autor(es)
 ------------------------------|---------------------------
 date-page-a-day-calendar.json |[Tetsuya Kawahara](https://twitter.com/techan_k)
 
-## Version history
+## Historial de versiones
 
-Version |Date             |Comments
+Versión |Fecha |Comentarios
 --------|-----------------|--------
-1.0     |October 17, 2020 |Initial release
+1.0 |17 de octubre de 2020 |Lanzamiento inicial
+2.0 |26 de abril de 2021 |[traducción ](./calendario-de-fechas-y-dias.json)
 
 
-## Disclaimer
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+## Aviso legal
+**ESTE CÓDIGO SE PROPORCIONA "TAL CUAL" SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO CUALQUIER GARANTÍA IMPLÍCITA DE IDONEIDAD PARA UN PROPÓSITO PARTICULAR, COMERCIABILIDAD O NO INFRACCIÓN.
 
 <img src="https://telemetry.sharepointpnp.com/sp-dev-list-formatting/column-samples/date-page-a-day-calendar" />
