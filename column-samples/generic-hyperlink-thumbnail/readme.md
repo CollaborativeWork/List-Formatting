@@ -1,51 +1,57 @@
-# Turn FileRef field into thumbnail image or clickable hyperlink
+# Convierte el campo FileRef en una imagen en miniatura o en un hipervínculo sobre el que se puede hacer clic
 
-## Summary
-This example uses a column to generate a hyperlink to the Item Thumbnail for a document library.
-* Uses FileRef Variable
-* Uses getpreview.ashx
+## Resumen
+Este ejemplo utiliza una columna para generar un hipervínculo al Item Thumbnail de una biblioteca de documentos.
+* Utiliza la variable FileRef
+* Utiliza getpreview.ashx
 
-### Before you use generic-hyperlink-thumbnail
-* Adjust the resolution=**3** (0-6) value to your NEEDS. _(3: 1024px, 4: 1600px)_
+### Antes de usar generic-hyperlink-thumbnail
+* Ajuste el valor de resolución=**3** (0-6) a sus NECESIDADES. (3: 1024px, 4: 1600px)_
 
-![screenshot of the sample](./screenshot.png)
+![captura de pantalla de la muestra](./screenshot.png)
 
 ### generic-image-thumbnail 
-basics from: https://github.com/SharePoint/sp-dev-list-formatting/tree/master/column-samples/picture-roundimage-format
+fundamentos de: https://github.com/SharePoint/sp-dev-list-formatting/tree/master/column-samples/picture-roundimage-format
 
-* Adjust Thumbnail Sizes or Rounded Edges to your NEEDS. 
+* Ajuste los tamaños de las miniaturas o los bordes redondeados según sus necesidades. 
 
-![screenshot of the sample](./screenshot2.png)
+![captura de pantalla de la muestra](./screenshot2.png)
 
 
-## View requirements
-- This format can be applied to any column type (the value is ignored)
-- This format should be used in a Document Library
+## Requisitos de visualización
+- Este formato se puede aplicar a cualquier tipo de columna (el valor se ignora)
+- Este formato debe ser utilizado en una Biblioteca de Documentos
 
-## Sample
+## Muestra
 
-Solution|Author(s)
+Solución|Autor(es)
 --------|---------
 generic-hyperlink-thumbnail.json | Josef Lahmer
 generic-image-thumbnail.json | Josef Lahmer
 
-## Version history
+## Historial de versiones
 
-Version|Date|Comments
+Versión|Fecha|Comentarios
 -------|----|--------
-1.0|July 17, 2018 |Initial release
-1.1|August 20, 2018|Switched to Excel-style expressions
-1.2|January 9, 2019|Removed hardcoded url and replaced with @currentWeb token
-1.3|April 9, 2019|Bugfix in @currentWeb, + generic-image-thumbnail
+1.0|17 de julio de 2018 |Lanzamiento inicial
+1.1|20 de agosto de 2018|Cambiado a expresiones de estilo Excel
+1.2|9 de enero de 2019|Se ha eliminado la url codificada y se ha sustituido por el token @currentWeb
+1.3|9 de abril de 2019|Corrección de errores en @currentWeb, + generic-image-thumbnail
+2.0|26 de abril de 2021|[Nuevo archivo json](https://github.com/CollaborativeWork/List-Formatting/blob/master-es/column-samples/generic-hyperlink-thumbnail/sustitucion-link-por-icono-pdf.json) con formato para sustituir url a archivo pdf por icono
 
-## Disclaimer
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+![](screenshot-icon-pdf.png)
+
+## Aviso legal
+**ESTE CÓDIGO SE PROPORCIONA "TAL CUAL" SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO CUALQUIER GARANTÍA IMPLÍCITA DE IDONEIDAD PARA UN PROPÓSITO PARTICULAR, COMERCIABILIDAD O NO INFRACCIÓN.
 
 ---
 
-## Additional notes
-- [Use column formatting to customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
+## Notas adicionales
+- [Utilice el formato de columna para personalizar SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
 
-> An additional version using Abstract Tree Syntax (AST) is also provided for environments where the Excel-style expressions are not supported.
+> También se proporciona una versión adicional que utiliza la Sintaxis de Árbol Abstracto (AST) para entornos en los que no se admiten las expresiones de estilo Excel.
 
 <img src="https://telemetry.sharepointpnp.com/sp-dev-list-formatting/column-samples/generic-hyperlink-thumbnail" />
+
+
+
