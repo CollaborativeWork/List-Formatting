@@ -1,17 +1,18 @@
-| Q               | A
+
+| Q | A
 | --------------- | ---
-| Bug fix?        | no - yes?
-| New sample?      | no - yes?
-| Related issues?  | fixes #X, partially #Y, mentioned in #Z
+| ¿Corrección de errores?        | ¿Si?
+| ¿Nueva muestra?      | No - Sí
+| ¿Intervenciones relacionadas?  | arregla #X, parcialmente #Y, mencionado en #Z
 
-#### What's in this Pull Request?
+#### ¿Qué hay en este Pull Request?
 
-Please describe the changes in this PR. Sample description or details around bugs which are being fixed.
+Por favor, describa los cambios en este PR. Ejemplo de descripción o detalles en torno a los errores que se están arreglando.
 
 
-#### Guidance
-*You can delete this section when you are submitting the pull request.* 
-* *Please update this PR information accordingly. We'll use this as part of our release notes in monthly communications.*
-* *Please target your PR to 'master' branch.*
+#### Orientación
+*Puede eliminar esta sección cuando envíe el pull request. 
+* *Por favor, actualice la información de este PR en consecuencia. Usaremos esto como parte de nuestras notas de lanzamiento en las comunicaciones mensuales.
+* Por favor, dirija su PR a la rama 'master'.
 
-Thanks for your contribution! Sharing is caring.
+Gracias por su contribución. Compartir es cuidar.
