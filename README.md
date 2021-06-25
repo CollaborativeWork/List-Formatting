@@ -16,6 +16,8 @@ extensiones:
    En algunos casos, el código fuente puede tener modificaciones de diseño. Todas las solicitudes de modificación o cambio (Pull Request) se harán sobre la rama master-es.
    También se pueden añadir nuevos archivos .json mencionando la fuente, si es distinta al repositorio original.
    
+   ‼ ATENCIÓN: SI SE DESEA HACER UNA MEJORA DEL CÓDIGO O AÑADIR CASOS DE USO NUEVOS, ES PREFERIBLE HACER PULL REQUEST EN LA RAMA MASTER DEL REPOSITORIO [ORIGINAL](https://github.com/pnp/List-Formatting) EN INGLES Y AVISAR AL AUTOR DE LA ADAPTACIÓN DE ESTE REPOSITORIO DE QUE HAY CAMBIOS.
+   
    Autor/es de la adaptación: 
    [Ernesto Barrera](https://github.com/ernestobarrera)
 
