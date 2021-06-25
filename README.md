@@ -1,14 +1,14 @@
-  ---
-  tipo de página: muestra
-  productos:
-  - office-sp
-  idiomas:
-  - json
-  - powershell
-  extensiones:
-    contentType: samples
-    createdDate: 11/2/2017 4:52:42 AM
-  ---
+---
+tipo de página: muestra
+productos:
+- office-sp
+idiomas:
+- json
+- powershell
+extensiones:
+  contentType: samples
+  createdDate: 11/2/2017 4:52:42 AM
+---
    # ⚡NOTA IMPORTANTE 
    Este repositorio es una copia (Fork) actualizada periodicamente a partir del [original](https://github.com/pnp/List-Formatting) en su rama master. 
    La rama por defecto de este repositorio master-es, que se irá ampliando y actualizando con la traducción de archivos readme.md y .json para facilitar su adaptación y uso en listas de Sharepoint en español. 
