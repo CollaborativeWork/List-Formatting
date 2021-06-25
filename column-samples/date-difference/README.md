@@ -1,9 +1,9 @@
-# Fecha Diferencia
+# Diferencia de fechas
 
 ## Resumen
 Este ejemplo demuestra el cálculo de la diferencia entre 2 fechas. En este ejemplo la edad en años se calcula en base a la fecha de nacimiento y la fecha de muerte. Este formato podría ajustarse fácilmente para calcular una unidad de tiempo diferente (meses, días, horas, minutos, etc.) ajustando el multiplicador.
 
-##[screenshot](./screenshot.png)
+![screenshot](./screenshot.png)
 
 
 ## Ver requisitos
