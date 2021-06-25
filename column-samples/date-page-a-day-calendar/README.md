@@ -3,7 +3,7 @@
 ## Resumen
 Este ejemplo personaliza una columna de fecha para que parezca un calendario de página al día. Lo hace utilizando las funciones de la parte de fecha (`getDate`, `getMonth`, y `getYear`).
 
-##[captura de pantalla del ejemplo](./screenshot.png)
+![captura de pantalla del ejemplo](./screenshot.png)
 
 ## Requisitos de la vista
 Este formato se puede aplicar a una columna de Fecha
