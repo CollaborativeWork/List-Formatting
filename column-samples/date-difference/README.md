@@ -1,38 +1,40 @@
-# Date Difference
+# Fecha Diferencia
 
-## Summary
-This sample demonstrates calculating the difference between 2 dates. In this sample the age in years is calculated based on the date of birth and the date of death. This format could easily be adjusted to calculate a different unit of time (months, days, hours, minutes, etc.) by adjusting the multiplier.
+## Resumen
+Este ejemplo demuestra el cálculo de la diferencia entre 2 fechas. En este ejemplo la edad en años se calcula en base a la fecha de nacimiento y la fecha de muerte. Este formato podría ajustarse fácilmente para calcular una unidad de tiempo diferente (meses, días, horas, minutos, etc.) ajustando el multiplicador.
 
-![screenshot](./screenshot.png)
+##[screenshot](./screenshot.png)
 
 
-## View requirements
-This format can be applied to any column, however it expects the following fields to be present in the view:
+## Ver requisitos
+Este formato puede aplicarse a cualquier columna, sin embargo espera que los siguientes campos estén presentes en la vista:
 
-|Type|Internal Name|Required|
+|Tipo|Nombre interno|Requerido
 |---|---|:---:|
-|Date|Born|Yes|
-|Date|Died|Yes|
+|Fecha de nacimiento
+|Fecha de nacimiento: Sí
 
-## Sample
+## Muestra
 
-Solution|Author(s)
+Solución|Autor(es)
 --------|---------
 date-difference.json | [Chris Kent](https://twitter.com/thechriskent)
 
-## Version history
+## Historial de versiones
 
-Version|Date|Comments
+Versión|Fecha|Comentarios
 -------|----|--------
-1.0|October 2, 2019|Initial release
+1.0|2 de octubre de 2019|Lanzamiento inicial
+2.0|25 de junio de 2021|Traducción del repositorio
 
-## Disclaimer
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+## Aviso legal
+**ESTE CÓDIGO SE PROPORCIONA *COMO ESTÁ* SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO CUALQUIER GARANTÍA IMPLÍCITA DE IDONEIDAD PARA UN PROPÓSITO PARTICULAR, COMERCIABILIDAD O NO INFRACCIÓN.**
 
 ---
 
-## Additional notes
+## Notas adicionales
 
-- [Use column formatting to customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
+- [Utilice el formato de columna para personalizar SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
 
 <img src="https://telemetry.sharepointpnp.com/sp-dev-list-formatting/column-samples/date-difference" />
